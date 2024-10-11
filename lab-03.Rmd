@@ -34,7 +34,7 @@ Disrespects the mathematics as the bars aren't increasing proportionally to the 
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-
+no scale, no lable, not a proper pie-chart, cannot tell everying. not respect the people, data. hard to read. 
 
 
 
