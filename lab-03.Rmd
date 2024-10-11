@@ -34,7 +34,7 @@ Disrespects the mathematics as the bars aren't increasing proportionally to the 
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-no scale, no lable, not a proper pie-chart, cannot tell everying. not respect the people, data. hard to read. 
+no scale, no label, not a proper pie-chart, cannot tell everything. not respect the people, data. hard to read. 
 
 
 
@@ -45,7 +45,7 @@ no scale, no lable, not a proper pie-chart, cannot tell everying. not respect th
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+People are being disrespected by having no scales. Don't tell the difference in the size. No title, no key to tell what the colors mean. Disrespected the data by plotting too many points.
 
 
 
