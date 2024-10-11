@@ -22,7 +22,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
 
-Disrespects the peopl and the data by saying 1026 billion Chinese speakers, this is just blatantly wrong and misrepresents the data
+Disrespects the people and the data by saying 1026 billion Chinese speakers, this is just blatantly wrong and misrepresents the data
 Disrespects the mathematics as the bars aren't increasing proportionally to the number of speakers
 
 
@@ -56,9 +56,9 @@ People are being disrespected by having no scales. Don't tell the difference in 
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
-
-
+The y-axis is confusing, too much is going on in one image - disrespecting the people. 
+Some groupings are not clear - who are the developed countries
+The scale is confusing - its not linear and doesn't seem to be a correct log scale.
 
 
 
